@@ -1,0 +1,20 @@
+{
+    "name": "ingenious/classie",
+    "description": "Composer fork of desandro/classie",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "desandro",
+            "email": "email@example.com",
+            "role": "developer"
+        },
+        {
+            "name": "Jeremy Bloomstrom",
+            "email": "jeremy@in.genio.us",
+            "role": "publisher"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
