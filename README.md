@@ -4,6 +4,7 @@
 
 Forked by Jeremy Bloomstrom <jeremy@in.genio.us>
 
+
 ``` js
 classie.has( element, 'my-class' ) // returns true/false
 classie.add( element, 'my-new-class' ) // add new class
